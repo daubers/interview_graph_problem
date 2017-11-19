@@ -1,0 +1,30 @@
+[
+  {
+    "card_name": "A",
+    "costs_single": {
+      "Cabinet": 1000,
+      "Chamber": 100,
+      "Pot": 100
+    },
+    "costs_per_m": {
+      "verge": 50,
+      "road": 100
+    },
+    "costs_per_total_length":{
+    }
+  },
+  {
+    "card_name": "B",
+    "costs_single": {
+      "Cabinet": 1200,
+      "Chamber": 200
+    },
+    "costs_per_m": {
+      "verge": 40,
+      "road": 80
+    },
+    "costs_per_total_length":{
+      "Pot": 20
+    }
+  }
+]
