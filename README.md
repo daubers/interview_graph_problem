@@ -6,6 +6,8 @@ do other data parsing stuff!
 
 To run it! Either run the setup.py to install and then run "parse-graph" or python -m GraphParseCost.entry
 
+The data for the costcards is layed out in tests/TestData/cost_cards.json
+
 Tests can be run using tox, though I'll admit they're a bit sparse.
 
 Docs are build with Sphinx, these are all autogenned from the docstrings. Again, a bit sparse, sorry.
