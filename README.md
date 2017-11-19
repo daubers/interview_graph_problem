@@ -4,6 +4,8 @@ Quick Costing Graph Pathing Program
 This is a very quick bodge together of the awesome power of NetworkX and some glue to
 do other data parsing stuff!
 
+To run it! Either run the setup.py to install and then run "parse-graph" or python -m GraphParseCost.entry
+
 Tests can be run using tox, though I'll admit they're a bit sparse.
 
 Docs are build with Sphinx, these are all autogenned from the docstrings. Again, a bit sparse, sorry.
