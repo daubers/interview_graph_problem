@@ -1,5 +1,5 @@
 
-Loading Data
+Finding Paths
 ************
-.. automodule:: GraphParseCost.load
+.. automodule:: GraphParseCost.find_paths
    :members:

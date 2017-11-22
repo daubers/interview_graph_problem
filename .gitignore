@@ -1,0 +1,7 @@
+venv
+.idea
+docs/_build
+.tox
+*.cache
+*.egg-info
+*__pycache__*

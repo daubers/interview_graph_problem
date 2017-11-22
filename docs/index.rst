@@ -6,15 +6,19 @@
 Welcome to GraphParseCost's documentation!
 ==========================================
 
+This is a quick bodge together of networkx's awesome graph parsing capabilities and
+some bits of glue to solve a problem.
+
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
-
+   GraphParseCost/*
 
 Indices and tables
 ==================
-
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
